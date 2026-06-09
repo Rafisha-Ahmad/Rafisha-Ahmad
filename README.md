@@ -8,7 +8,7 @@ Thanks for dropping by – let's connect and build something awesome!
 
 ### 🚀 About Me
 - 🔭 **Current Focus:** Building web applications and exploring data visualization.
-- 📚 **Learning:** Advanced Python for Data Science, Machine Learning, and Frameworks (like React or Express).
+- 📚 **Learning:** Advanced Python for Data Science, Machine Learning, and Data Analyst.
 - 💼 **Open to:** Collaboration on open-source projects or data analytics internships.
 
 ---
